@@ -27,6 +27,7 @@ public class HardwarePushbot
     public DcMotor  leftMotor   = null;
     public DcMotor  rightMotor  = null;
     public DcMotor  armMotor    = null;
+    public DcMotor  paulsMotor    = null;
     public Servo    leftClaw    = null;
     public Servo    rightClaw   = null;
 
